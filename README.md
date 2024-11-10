@@ -1,4 +1,4 @@
-# AnswerTemplate
+#  Инструкция
 Шаблон репозитория для отправки заданий
 
 > [Скринкасты](https://youtube.com/playlist?list=PLbQ9NRKEG-c0vHKOmTHOxq0MqpK1ONNjt) по работе с github
